@@ -59,7 +59,7 @@ The main physical components of this layout are:
 - Run the simulation with all parameters set according to specifications.  
 - Generate screen captures for inclusion in the report.  
 - Measure:  
-  - Optical power at receiver input  
+  - Optical power at receiver input 
   - Maximum Q factor  
   - Minimum BER  
 - Record:  
